@@ -107,7 +107,7 @@ Paste
 \
 phpinfo();
 
-`http://`server_domain_or_IP`/info.php`
+`http://server_domain_or_IP/info.php`
 
 ![php test](./Images/Php%20Test.PNG)
 
